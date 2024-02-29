@@ -13,4 +13,4 @@ To use this package, add `scholar_scraper` as a dependency in your `pubspec.yaml
 
 ```yaml
 dependencies:
-  scholar_scraper: ^0.0.1
+  scholar_scraper: ^0.0.4
