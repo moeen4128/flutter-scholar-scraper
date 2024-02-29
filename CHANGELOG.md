@@ -1,4 +1,4 @@
-## 0.0.4 - YYYY-MM-DD
+## 0.0.5 - YYYY-MM-DD
 
 ### Added
 - Initial release of the Scholar Scraper package.

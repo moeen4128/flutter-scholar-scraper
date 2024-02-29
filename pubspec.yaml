@@ -1,6 +1,6 @@
 name: scholar_scraper
 description: "A Flutter package for efficient data scraping from Google Scholar profiles. Extract and analyze publication information for academic research and citation analysis."
-version: 0.0.4
+version: 0.0.5
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
